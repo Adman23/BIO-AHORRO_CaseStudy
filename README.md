@@ -276,7 +276,7 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Julia  | H / 18   | Estudiante  | Alta       | Introvertido | móvil       | A 
 | Andres  | H / 18   | Estudiante  | Alta       | Timido       | móvil        | A 
-| Inma  | H / 18   | Estudiante  | Media       | Timido       | móvil        | A 
+| Carmen  | H / 18   | Estudiante  | Media       | Timido       | móvil        | A 
 | Alicia  | H / 18   | Estudiante  | Baja       | Timido       | móvil        | A 
 | Fernando  | M / 35   | Estudiante     | Alta        | Emocional    | móvil      | B 
 | Adam  | H / 18   | Estudiante  | Alta       | Racional     | móvil        | B 

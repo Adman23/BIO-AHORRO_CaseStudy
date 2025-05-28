@@ -267,7 +267,7 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
->>> El caso asignado es una aplicación para un bar llamado La Tertulia que combina actividades socioculturales con gastronomía
+>>> El caso asignado es una aplicación para un bar llamado La Tertulia, que es un bar que combina gastronomía con actividades culturales como recitales, charlas y conciertos.
 >>> https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file
 
 
@@ -290,11 +290,11 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 >>> Las pruebas tienen que ser comunes a las dos aplicaciones (la A y la B)
->>> Contactar
->>> Consultar Eventos
->>> Información
->>> Cuenta
->>> Leer comentarios
+* Contactar: Verificar que se puede navegar correctamente a la página de contacto.
+* Consultar Eventos: Comprobar que se accede a la sección de eventos y se muestra la información esperada.
+* Información: Validar el acceso y visualización del contenido de la página de información.
+* Cuenta: Confirmar el acceso a la página de cuenta y la visibilidad de los datos del usuario.
+* Leer comentarios: Comprobar que se puede acceder a la página de comentarios y visualizar los mismos.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 

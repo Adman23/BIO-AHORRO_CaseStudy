@@ -267,15 +267,21 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+>>> El caso asignado es una aplicación para un bar llamado La Tertulia que combina actividades socioculturales con gastronomía
+>>> https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file
 
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Julia  | H / 18   | Estudiante  | Alta       | Introvertido | móvil       | A 
+| Andres  | H / 18   | Estudiante  | Alta       | Timido       | móvil        | A 
+| Inma  | H / 18   | Estudiante  | Media       | Timido       | móvil        | A 
+| Alicia  | H / 18   | Estudiante  | Baja       | Timido       | móvil        | A 
+| Fernando  | M / 35   | Estudiante     | Alta        | Emocional    | móvil      | B 
+| Adam  | H / 18   | Estudiante  | Alta       | Racional     | móvil        | B 
+| Blanca  | H / 18   | Editora  | Media       | Racional     | móvil        | B 
+| Ana  | H / 18   | Jubilada  | Baja       | Racional     | móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -283,8 +289,12 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
+>>> Las pruebas tienen que ser comunes a las dos aplicaciones (la A y la B)
+>>> Contactar
+>>> Consultar Eventos
+>>> Información
+>>> Cuenta
+>>> Leer comentarios
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 

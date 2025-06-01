@@ -321,6 +321,9 @@ Los resultados del cuestionario SUS reflejan una buena experiencia general con a
 
 Ambas puntuaciones se encuentran por encima de la media y son indicativas de un sistema usable, aunque cada una presenta áreas claras de mejora.
 
+![image](https://github.com/user-attachments/assets/d59f3960-e905-4b76-b36f-cfd7593c4bc6)
+
+
 #### Análisis del caso A
 
 La aplicación A obtuvo una buena puntuación (82), aunque presenta mayor complejidad y densidad de contenido. Entre los principales problemas detectados:

@@ -277,13 +277,14 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 | **Alicia**            | Mujer / 15–30   | Estudiante             | Baja         | Precavida        | Móvil          | A        |
 | **Blanca**            | Mujer / 15–30   | Editora junior         | Baja         | Creativa         | Móvil          | A        |
 | **Maje**              | Hombre / 45–60  | Estudiante             | Media        | Divertida        | Móvil          | A        |
-| **Suley**             | Hombre / 15–30  | Pringao                | Alta         | Extrovertido     | Móvil          | A        |
+| **Juan Manuel**       | Hombre / 15–30  | Vendedor Ecológico     | Alta         | Extrovertido     | Móvil          | A        |
 | **Lorenzo**           | Hombre / 15–30  | Estudiante             | Alta         | Sociable         | Móvil          | A        |
 | **Victoria**          | Mujer / 15–30   | Estudiante             | Baja         | Responsable      | Móvil          | B        |
 | **Cayo**              | Hombre / 15–30  | Estudiante             | Media        | Inteligente      | Móvil          | B        |
 | **Marco**             | Hombre / 15–30  | Estudiante             | Alta         | Racional         | Móvil          | B        |
-| **EngatusaGatitas23** | Hombre / 15–30  | Estudiante de la calle | Media        | Solidario        | Móvil          | B        |
+| **Diego**             | Hombre / 15–30  | Estudiante de la calle | Media        | Solidario        | Móvil          | B        |
 | **Inma**              | Mujer / 15–30   | Estudiante             | Media        | Sensible         | Móvil          | B        |
+
 
 
 

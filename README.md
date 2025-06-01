@@ -350,15 +350,6 @@ Ambas aplicaciones tienen una buena base de usabilidad:
 - App A: Más funcional pero compleja; necesita mejoras en accesibilidad visual y organización del contenido.
 - App B: Más intuitiva y fácil de usar; necesita incorporar feedback claro y funcionalidades básicas.
 
-Este análisis muestra la importancia de encontrar un equilibrio entre completitud funcional, claridad visual y respuesta efectiva al usuario.
-
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----

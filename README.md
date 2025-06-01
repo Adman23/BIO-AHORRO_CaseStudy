@@ -415,14 +415,8 @@ En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+![image](https://github.com/user-attachments/assets/0e2cff68-0a9e-433e-a33d-db7d2de36356)
+Para realizar el análisis de eye-tracking utilizamos la herramienta **GazeRecorder**. En ella cargamos la imágen correspondiente al home page. Esto nos permitió evaluar visualmente qué elementos captaban la atención de los usuarios en las secciones clave de la página principal.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 

@@ -333,13 +333,82 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+Se ha aplicado un método UX mixto compuesto por:
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+- **Evaluación heurística mediante tareas concretas**: los usuarios debían completar acciones típicas dentro del prototipo de la app.
+- **Cuestionario SUS (System Usability Scale)** para evaluar la percepción global de la experiencia.
+- **Eye-tracking experimental** mediante WebGazer, para detectar áreas de atención en la interfaz principal.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyecto **La Tertulia**.
 
+---
 
+### Evaluación de Usabilidad
+
+#### Descripción del proyecto evaluado
+
+**La Tertulia** es una app para un bar cultural que combina gastronomía con eventos como charlas, recitales y conciertos. La app permite ver eventos, comentar, participar en escenarios abiertos, conocer la historia del bar y gestionar el perfil de usuario.
+
+---
+
+### Resultados de la prueba
+
+#### Debilidades detectadas
+
+| Debilidad detectada | Valoración UX del equipo |
+|---------------------|--------------------------|
+| **No se pueden editar los datos del usuario** | Limita la personalización del perfil. Se sugiere añadir opción de edición básica. |
+| **El calendario no es claro** | No se explican los días destacados ni se puede interactuar con ellos. Podría confundirse con un elemento decorativo. |
+| **Etiquetas como “HOY”, “JUEVES”, “MAÑANA” no son interactivas** | Esto corta la fluidez de navegación. Sería útil que llevaran al evento del día correspondiente. |
+| **Términos arbitrarios como “JUEVES” generan confusión** | No queda claro su significado. Requiere contexto o funcionalidad. |
+| **Falta de feedback visual al pulsar botones** | Los botones “Participa” o “Enviar comentario” no ofrecen confirmación de acción. Esto puede crear incertidumbre en el usuario. |
+| **El icono de perfil tiene bajo contraste y es poco visible** | Dificulta el acceso rápido a funciones personales, especialmente en pantallas pequeñas. |
+
+---
+
+#### Resultados de cuestionario SUS
+
+| Usuario | Edad | Sexo | SUS Score |
+|--------|------|------|-----------|
+| Victoria | 15–30 | Mujer | 90 |
+| Cayo | 15–30 | Hombre | 85 |
+| Marco | 15–30 | Hombre | 100 (menos fiable, respuesta apresurada) |
+| EngatusaGatitas23 | 15–30 | Hombre | 70 |
+| Inma | 15–30 | Mujer | 77.5 |
+
+> **Promedio estimado (sin Marco): ~80.6**, considerado **bueno** pero con margen de mejora.
+
+---
+
+#### Eye-tracking
+
+- La atención se concentra en la **zona superior** (imágenes y cabecera).
+- El **icono de perfil apenas es visualizado**: bajo contraste y tamaño reducido.
+- Se ignoran zonas interactivas no evidentes como etiquetas de fecha.
+
+---
+
+### Valoración del equipo
+
+La app presenta un diseño visual atractivo y una navegación general intuitiva. El contenido está bien organizado y refleja con acierto el espíritu del bar. Sin embargo, hay aspectos de la interfaz que pueden generar confusión y reducir la fluidez de uso.
+
+La metodología empleada (tareas + SUS + eye-tracking) ha sido clave para descubrir errores no evidentes en la fase de diseño. Ha permitido observar el comportamiento real de los usuarios y extraer conclusiones relevantes para iteraciones futuras.
+
+---
+
+### Recomendaciones de mejora
+
+- Aumentar la visibilidad y contraste del botón de perfil.
+- Hacer interactivos los elementos del calendario y etiquetas como “HOY”.
+- Añadir opciones para editar los datos del usuario desde el perfil.
+- Incluir feedback visual tras acciones como comentar o participar.
+- Mejorar la semántica de los términos utilizados en la interfaz (como “JUEVES”).
+
+---
+
+### Enlace al proyecto evaluado
+
+[Repositorio del proyecto La Tertulia – GitHub](https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file)
 
 <br>
 

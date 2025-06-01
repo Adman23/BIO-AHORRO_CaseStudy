@@ -293,8 +293,7 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
->>> Las pruebas tienen que ser comunes a las dos aplicaciones (la A y la B)
+Las tareas que deberán realizar los usuarios son las siguientes:
 * Contactar: Verificar que se puede navegar correctamente a la página de contacto.
 * Consultar Eventos: Comprobar que se accede a la sección de eventos y se muestra la información esperada.
 * Información: Validar el acceso y visualización del contenido de la página de información.
@@ -304,6 +303,55 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+### Cuestionario SUS - A:
+![image](https://github.com/user-attachments/assets/85c09915-c779-4605-a51b-f232a8534820)
+
+### Cuestionario SUS - B:
+![image](https://github.com/user-attachments/assets/3297422f-ca12-40ba-ba0c-b7c118c3c09e)
+
+---
+
+### Valoración de los resultados
+
+Los resultados del cuestionario SUS reflejan una buena experiencia general con ambas aplicaciones:
+
+- SUS A: 82/100  
+- SUS B: 84.5/100
+
+Ambas puntuaciones se encuentran por encima de la media y son indicativas de un sistema usable, aunque cada una presenta áreas claras de mejora.
+
+#### Análisis del caso A
+
+La aplicación A obtuvo una buena puntuación (82), aunque presenta mayor complejidad y densidad de contenido. Entre los principales problemas detectados:
+
+- Alta densidad informativa, lo que puede saturar visualmente al usuario.
+- Iconos del menú excesivamente grandes, que ocupan demasiado espacio en pantalla.
+- Tipografía demasiado pequeña en algunas secciones, dificultando la lectura.
+
+A pesar de estos problemas, los usuarios pudieron completar sus tareas, lo que explica la puntuación positiva.
+
+#### Análisis del caso B
+
+La aplicación B, con una puntuación de 84.5, fue percibida como más sencilla e intuitiva. Sin embargo, presenta algunas carencias:
+
+- Falta de feedback visual al realizar acciones como participar o comentar.
+- Contraste de colores insuficiente en ciertas secciones.
+- Faltan funcionalidades clave, como editar perfil, iniciar sesión o registrarse.
+- El eye-tracking indica que la atención se concentra en la parte inferior de la pantalla, probablemente porque los elementos importantes están ubicados allí o porque la parte superior no es suficientemente llamativa.
+
+La menor complejidad de navegación en B ha favorecido una experiencia más fluida, lo que se refleja en su ligera ventaja en puntuación.
+
+---
+
+### Conclusión
+
+Ambas aplicaciones tienen una buena base de usabilidad:
+
+- App A: Más funcional pero compleja; necesita mejoras en accesibilidad visual y organización del contenido.
+- App B: Más intuitiva y fácil de usar; necesita incorporar feedback claro y funcionalidades básicas.
+
+Este análisis muestra la importancia de encontrar un equilibrio entre completitud funcional, claridad visual y respuesta efectiva al usuario.
+
 
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)

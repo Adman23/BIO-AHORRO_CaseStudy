@@ -250,13 +250,6 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 -Importante indicar que el logo pequeño que sale siempre hace volver al home, para que se pueda navegar bien.
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
@@ -265,12 +258,8 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
->>> El caso asignado es una aplicación para un bar llamado La Tertulia, que es un bar que combina gastronomía con actividades culturales como recitales, charlas y conciertos.
->>> https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file
-
-
+El caso asignado es una aplicación para un bar llamado La Tertulia, que es un bar que combina gastronomía con actividades culturales como recitales, charlas y conciertos.
+https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file
 
 | **Usuario**           | **Sexo / Edad** | **Ocupación**          | **Exp. TIC** | **Personalidad** | **Plataforma** | **Caso** |
 | --------------------- | --------------- | ---------------------- | ------------ | ---------------- | -------------- | -------- |
@@ -296,6 +285,10 @@ Las tareas que deberán realizar los usuarios son las siguientes:
 * Cuenta: Confirmar el acceso a la página de cuenta y la visibilidad de los datos del usuario.
 * Leer comentarios: Comprobar que se puede acceder a la página de comentarios y visualizar los mismos.
 
+Las tareas que se han planteado para el test de usabilidad han sido seleccionadas porque representan acciones clave dentro de cualquier aplicación orientada a la gestión de eventos o interacción con el usuario. Además, son funcionalidades **comunes a ambas aplicaciones evaluadas**, lo que permite hacer una comparación objetiva y coherente entre ellas.
+
+Estas tareas cubren aspectos fundamentales de la experiencia de usuario, como la navegación básica, el acceso a información relevante, la gestión de cuenta personal y la posibilidad de interactuar con contenido generado por otros usuarios (comentarios). Evaluarlas garantiza que se tiene una visión general del funcionamiento de la interfaz y de los posibles puntos de fricción que pueda encontrar el usuario al utilizar el sistema.
+
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
@@ -304,8 +297,6 @@ Las tareas que deberán realizar los usuarios son las siguientes:
 
 ### Cuestionario SUS - B:
 ![image](https://github.com/user-attachments/assets/3297422f-ca12-40ba-ba0c-b7c118c3c09e)
-
----
 
 ### Valoración de los resultados
 
@@ -330,8 +321,6 @@ En resumen, aunque la media es alta, **la diferencia entre usuarios sugiere que 
 **Media global: 82**  
 **Evaluación global: A (aceptable)**
 
----
-
 ### Proyecto B
 
 En el caso del proyecto B, la media obtenida en el cuestionario SUS fue de **84.5/100**, lo que también entra en el **rango A** (alta usabilidad). Sin embargo, se observa una mayor dispersión entre las valoraciones de los usuarios, lo que indica que la experiencia de uso puede variar más entre personas.
@@ -351,13 +340,9 @@ Aunque la media es alta, **varias opiniones encuentran aspectos de la aplicacion
 **Media global: 84.5**  
 **Evaluación global: A (aceptable, con margen de mejora)**
 
----
-
 ### Imagen de referencia: Rango de interpretación SUS
 
 ![Interpretación SUS](https://github.com/user-attachments/assets/d59f3960-e905-4b76-b36f-cfd7593c4bc6)
-
----
 
 ### Conclusión comparativa
 
@@ -365,7 +350,6 @@ Aunque la media es alta, **varias opiniones encuentran aspectos de la aplicacion
 - El **proyecto B** se percibe como más intuitivo y ligero, pero necesita reforzar aspectos como el feedback tras acciones y añadir funciones clave (editar perfil, registro/inicio de sesión).
 
 Ambos proyectos obtienen puntuaciones aceptables, pero muestran **diferencias cualitativas importantes** que deben ser consideradas si se busca optimizar la experiencia de usuario.
-
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
@@ -381,8 +365,6 @@ Además del cuestionario SUS, se aplicó un test práctico basado en tareas clav
 4. **Cuenta**: Confirmar el acceso a la página de cuenta y la visibilidad de los datos del usuario.
 5. **Leer comentarios**: Comprobar que se puede acceder a la página de comentarios y visualizar los mismos.
 
----
-
 ### Proyecto A
 
 #### Usuarios: Alicia Herrezuelo, Blanca Lanzarot, María Jesús Luque, Juan Manuel Navarro, Lorenzo Herrero  
@@ -390,16 +372,12 @@ Además del cuestionario SUS, se aplicó un test práctico basado en tareas clav
 
 Los usuarios completaron la mayoría de tareas, aunque se identificaron algunos puntos comunes de mejora: textos pequeños y una interfaz algo recargada visualmente. La navegación general fue correcta, pero menos fluida que en el otro proyecto.
 
----
-
 ### Proyecto B
 
 #### Usuarios: Victoria, Nicolás, Marco, Diego, Inma Orzuelo  
 **Media SUS: 84.5 (Rango A - aceptable)**
 
 La mayoría de los usuarios consideraron la app clara, ligera e intuitiva. Las tareas se completaron correctamente, aunque se detectaron algunas carencias: falta de feedback al interactuar, ausencia de funcionalidades como registro o edición de datos, y contraste visual mejorable. A pesar de ello, la navegación resultó más directa y sencilla.
-
----
 
 ### Conclusión del A/B Testing
 
@@ -416,6 +394,7 @@ En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación 
 ----
 
 ![image](https://github.com/user-attachments/assets/0e2cff68-0a9e-433e-a33d-db7d2de36356)
+<br>
 Para realizar el análisis de eye-tracking utilizamos la herramienta **GazeRecorder**. En ella cargamos la imágen correspondiente al home page. Esto nos permitió evaluar visualmente qué elementos captaban la atención de los usuarios en las secciones clave de la página principal.
 
 ### 4.f Usability Report de B
@@ -429,7 +408,6 @@ Se ha aplicado un método UX mixto compuesto por:
 
 La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyecto **La Tertulia**.
 
----
 
 ### Evaluación de Usabilidad
 
@@ -437,7 +415,6 @@ La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyec
 
 **La Tertulia** es una app para un bar cultural que combina gastronomía con eventos como charlas, recitales y conciertos. La app permite ver eventos, comentar, participar en escenarios abiertos, conocer la historia del bar y gestionar el perfil de usuario.
 
----
 
 ### Resultados de la prueba
 
@@ -452,7 +429,6 @@ La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyec
 | **Falta de feedback visual al pulsar botones** | Los botones “Participa” o “Enviar comentario” no ofrecen confirmación de acción. Esto puede crear incertidumbre en el usuario. |
 | **El icono de perfil tiene bajo contraste y es poco visible** | Dificulta el acceso rápido a funciones personales, especialmente en pantallas pequeñas. |
 
----
 
 #### Resultados de cuestionario SUS
 
@@ -466,23 +442,17 @@ La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyec
 
 > **Promedio estimado (sin Marco): ~80.6**, considerado **bueno** pero con margen de mejora.
 
----
-
 #### Eye-tracking
 
 - La atención se concentra en la **zona superior** (imágenes y cabecera).
 - El **icono de perfil apenas es visualizado**: bajo contraste y tamaño reducido.
 - Se ignoran zonas interactivas no evidentes como etiquetas de fecha.
 
----
-
 ### Valoración del equipo
 
 La app presenta un diseño visual atractivo y una navegación general intuitiva. El contenido está bien organizado y refleja con acierto el espíritu del bar. Sin embargo, hay aspectos de la interfaz que pueden generar confusión y reducir la fluidez de uso.
 
 La metodología empleada (tareas + SUS + eye-tracking) ha sido clave para descubrir errores no evidentes en la fase de diseño. Ha permitido observar el comportamiento real de los usuarios y extraer conclusiones relevantes para iteraciones futuras.
-
----
 
 ### Recomendaciones de mejora
 
@@ -492,8 +462,6 @@ La metodología empleada (tareas + SUS + eye-tracking) ha sido clave para descub
 - Incluir feedback visual tras acciones como comentar o participar.
 - Mejorar la semántica de los términos utilizados en la interfaz (como “JUEVES”).
 
----
-
 ### Enlace al proyecto evaluado
 
 [Repositorio del proyecto La Tertulia – GitHub](https://github.com/sofiiaglez11/DIU2-string?tab=readme-ov-file)
@@ -501,6 +469,7 @@ La metodología empleada (tareas + SUS + eye-tracking) ha sido clave para descub
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
+---
 Comenzamos esta práctica con una investigación previa sobre los mercados ecológicos existentes, explorando diferentes páginas web, simulando compras y detectando dificultades desde la perspectiva de usuarios reales. Esta fase inicial nos permitió construir personajes y journeys representativos, capturando frustraciones y oportunidades de mejora. A partir de ahí, definimos una propuesta de valor clara: **acercar el consumo de productos ecológicos a un público más generalista**, promoviendo la sostenibilidad desde una red de productores locales.
 
 En la **primera práctica (P1)**, nos centramos en el análisis del contexto, identificamos problemas del sector ecológico y generamos nuestros usuarios tipo y sus journey maps. Aquí quedó claro que hay una barrera tanto de acceso como de percepción hacia este tipo de productos.

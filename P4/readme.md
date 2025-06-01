@@ -161,8 +161,7 @@ En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación 
 <br>
 Para realizar el análisis de eye-tracking utilizamos la herramienta **GazeRecorder**. En ella cargamos la imágen correspondiente al home page. Esto nos permitió evaluar visualmente qué elementos captaban la atención de los usuarios en las secciones clave de la página principal.
 
-### Usability Report de B
-![Método UX](img/usability-report.png) 
+### Usability Report de B 
 -----
 Se ha aplicado un método UX mixto compuesto por:
 

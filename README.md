@@ -500,29 +500,24 @@ La metodología empleada (tareas + SUS + eye-tracking) ha sido clave para descub
 
 <br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
 ## Conclusiones finales & Valoración de las prácticas
+Comenzamos esta práctica con una investigación previa sobre los mercados ecológicos existentes, explorando diferentes páginas web, simulando compras y detectando dificultades desde la perspectiva de usuarios reales. Esta fase inicial nos permitió construir personajes y journeys representativos, capturando frustraciones y oportunidades de mejora. A partir de ahí, definimos una propuesta de valor clara: **acercar el consumo de productos ecológicos a un público más generalista**, promoviendo la sostenibilidad desde una red de productores locales.
+
+En la **primera práctica (P1)**, nos centramos en el análisis del contexto, identificamos problemas del sector ecológico y generamos nuestros usuarios tipo y sus journey maps. Aquí quedó claro que hay una barrera tanto de acceso como de percepción hacia este tipo de productos.
+
+En la **segunda práctica (P2)**, analizamos fortalezas y debilidades de otras plataformas, y empezamos a perfilar nuestra solución. Definimos las funcionalidades clave y comenzamos a diseñar una estructura coherente con nuestra propuesta de valor, priorizando accesibilidad y sostenibilidad.
+
+En la **tercera práctica (P3)**, pasamos al diseño visual, creando los primeros bocetos de la versión de escritorio, asignando una paleta de colores alineada con los valores ecológicos del proyecto. También desarrollamos un Task Flow y un User Task Matrix para identificar puntos críticos de interacción y asegurar la usabilidad del sistema.
+
+Finalmente, en la **cuarta práctica (P4)**, evaluamos la usabilidad del prototipo con distintos métodos: cuestionario SUS, pruebas de tareas específicas y una pequeña prueba de eye tracking con GazeRecorder. Esta última nos permitió detectar qué elementos captaban más atención y cuáles pasaban desapercibidos.
+
+A lo largo de todas las fases, fuimos dando forma al proyecto **Bio-Ahorro**, centrado en democratizar el acceso a productos ecológicos mediante una propuesta funcional, visualmente cuidada y con una experiencia de usuario pensada para todo tipo de públicos.
+
+### Conclusión general
+
+Creemos que hemos trabajado de forma organizada y constante a lo largo de todas las prácticas. El proceso nos ha permitido conectar todas las fases del diseño centrado en el usuario, desde la investigación inicial hasta la evaluación final. Aunque hay aspectos que se podrían mejorar a nivel visual o técnico, el proyecto ha evolucionado de manera coherente y creemos que la solución que presentamos es útil, realista y está alineada con los objetivos que nos propusimos al principio. En general, estamos satisfechas con el resultado y con todo lo que hemos aprendido durante el desarrollo del proyecto.
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 
 

@@ -71,8 +71,46 @@ Los resultados del cuestionario SUS reflejan una buena experiencia general con a
 Ambas puntuaciones se encuentran por encima de la media y son indicativas de un sistema usable, aunque cada una presenta áreas claras de mejora.
 
 
-
 ### Tablas A/B testing
+Además del cuestionario SUS, se aplicó un test práctico basado en tareas clave para evaluar la experiencia de uso real de cada aplicación. Las tareas se realizaron con los mismos usuarios que participaron en el SUS, y se centraron en los siguientes objetivos:
+
+### Tareas evaluadas
+
+1. **Contactar**: Verificar que se puede navegar correctamente a la página de contacto.
+2. **Consultar eventos**: Comprobar que se accede a la sección de eventos y se muestra la información esperada.
+3. **Información**: Validar el acceso y visualización del contenido de la página de información.
+4. **Cuenta**: Confirmar el acceso a la página de cuenta y la visibilidad de los datos del usuario.
+5. **Leer comentarios**: Comprobar que se puede acceder a la página de comentarios y visualizar los mismos.
+
+---
+
+### Proyecto A
+
+#### Usuarios: Alicia Herrezuelo, Blanca Lanzarot, María Jesús Luque, Juan Manuel Navarro, Lorenzo Herrero  
+**Media SUS: 82 (Rango A - aceptable)**
+
+Los usuarios completaron la mayoría de tareas, aunque se identificaron algunos puntos comunes de mejora: textos pequeños y una interfaz algo recargada visualmente. La navegación general fue correcta, pero menos fluida que en el otro proyecto.
+
+---
+
+### Proyecto B
+
+#### Usuarios: Victoria, Nicolás, Marco, Diego, Inma Orzuelo  
+**Media SUS: 84.5 (Rango A - aceptable)**
+
+La mayoría de los usuarios consideraron la app clara, ligera e intuitiva. Las tareas se completaron correctamente, aunque se detectaron algunas carencias: falta de feedback al interactuar, ausencia de funcionalidades como registro o edición de datos, y contraste visual mejorable. A pesar de ello, la navegación resultó más directa y sencilla.
+
+---
+
+### Conclusión del A/B Testing
+
+Ambas aplicaciones permiten completar las tareas previstas, pero presentan diferencias clave en la experiencia de usuario.
+
+- **Proyecto B** obtiene una **mejor puntuación en el cuestionario SUS (84.5 frente a 82)** y una **navegación más intuitiva y ligera**. A pesar de algunas carencias funcionales (como la ausencia de inicio de sesión o edición de cuenta), los usuarios encuentran la app más accesible y comprensible en su estructura.
+
+- **Proyecto A** presenta una interfaz más completa en cuanto a contenido, pero también más cargada y menos clara visualmente. Algunos usuarios encontraron dificultades relacionadas con el tamaño del texto, la sobrecarga informativa y la falta de edición de perfil.
+
+En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación positiva**, el **proyecto B destaca por su simplicidad, claridad y mejor puntuación global en usabilidad**, lo que lo posiciona como el prototipo con mejor experiencia de usuario según los datos recogidos.
 
 #### Prototipo A
 

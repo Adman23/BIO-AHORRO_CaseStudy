@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Eyetracking con WebGazer</title>
+  <script src="https://webgazer.cs.brown.edu/webgazer.js"></script>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin: 0; padding: 0; background: #f0f0f0; }
+    #canvasContainer { position: relative; display: inline-block; }
+    #uploadedImage, #overlayCanvas {
+      max-width: 90vw;
+      max-height: 80vh;
+      display: block;
+    }
+    #overlayCanvas {
+      position: absolute;
+      top: 0; left: 0;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <h2>🧠 Eyetracking sobre imagen personalizada</h2>
+  <input type="file" id="imageInput" accept="image/*"><br><br>
+  <div id="canvasContainer">
+    <img id="uploadedImage" src="" alt="">
+    <canvas id="overlayCanvas"></canvas>
+  </div>
+
+  <script>
+    const image = document.getElementById('uploadedImage');
+    const canvas = document.getElementById('overlayCanvas');
+    const ctx = canvas.getContext('2d');
+
+    document.getElementById('imageInput').addEventListener('change', function (e) {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function (event) {
+        image.src = event.target.result;
+      };
+      reader.readAsDataURL(file);
+    });
+
+    image.onload = function () {
+      canvas.width = image.width;
+      canvas.height = image.height;
+    };
+
+    // Inicializar WebGazer
+    webgazer.setGazeListener((data, elapsedTime) => {
+      if (!data) return;
+
+      const x = data.x - image.offsetLeft;
+      const y = data.y - image.offsetTop;
+
+      ctx.beginPath();
+      ctx.arc(x, y, 5, 0, 2 * Math.PI);
+      ctx.fillStyle = 'rgba(255, 0, 0, 0.5)';
+      ctx.fill();
+    }).begin();
+
+    // Ocultar la interfaz de calibración
+    window.onload = () => {
+      webgazer.showVideo(false).showPredictionPoints(false).applyKalmanFilter(true);
+    };
+  </script>
+</body>
+</html>

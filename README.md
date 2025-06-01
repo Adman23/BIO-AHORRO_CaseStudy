@@ -314,45 +314,63 @@ Las tareas que deberán realizar los usuarios son las siguientes:
 
 ### Valoración de los resultados
 
-Los resultados del cuestionario SUS reflejan una buena experiencia general con ambas aplicaciones:
+## Análisis detallado del cuestionario SUS
 
-- SUS A: 82/100  
-- SUS B: 84.5/100
+### Proyecto A
 
-Ambas puntuaciones se encuentran por encima de la media y son indicativas de un sistema usable, aunque cada una presenta áreas claras de mejora.
+La puntuación media del cuestionario SUS en el proyecto A es de **82/100**, lo que entra en el **rango A** (usabilidad aceptable y alta). La mayoría de los usuarios se han mostrado satisfechos con la navegación y funcionalidad de la aplicación, aunque algunos han identificado áreas específicas a mejorar.
 
-![image](https://github.com/user-attachments/assets/d59f3960-e905-4b76-b36f-cfd7593c4bc6)
+- **Alicia Herrezuelo** obtuvo un **SUS de 90**, con una experiencia muy positiva. Considera que la app es fácil de usar y se siente segura navegando por ella. Aun así, encontro la app un poco grande al recorrerla, lo que se podría mejorar.
 
+- **Blanca Lanzarot** obtuvo una puntuación de **67.5**, que entra en el **rango C** (marginal). A pesar de completar la tarea, sus respuestas reflejan que la app podría resultarle algo confusa e inecesariamente compleja.
 
-#### Análisis del caso A
+- **María Jesús Luque** puntuó con **70**, también en el rango C. Sus respuestas indican que pudo utilizar la app, pero percibió dificultades leves relacionadas con la complejidad. Además no es la demografía objetivo, ya que puntua con indiferencia la visita a este tipo de aplicaciones.
 
-La aplicación A obtuvo una buena puntuación (82), aunque presenta mayor complejidad y densidad de contenido. Entre los principales problemas detectados:
+- **Juan Manuel Navarro** obtuvo **100**, la puntuación máxima. Este usuario no encontró ninguna dificultad y se sintió completamente cómodo, aunque por la rapidez en sus respuestas se sospecha que pudo no haber reflexionado del todo en cada ítem.
 
-- Alta densidad informativa, lo que puede saturar visualmente al usuario.
-- Iconos del menú excesivamente grandes, que ocupan demasiado espacio en pantalla.
-- Tipografía demasiado pequeña en algunas secciones, dificultando la lectura.
+- **Lorenzo Herrero** consiguió una puntuación de **82.5**, dentro del rango A. Valora positivamente el diseño general y la facilidad de uso.
 
-A pesar de estos problemas, los usuarios pudieron completar sus tareas, lo que explica la puntuación positiva.
+En resumen, aunque la media es alta, **la diferencia entre usuarios sugiere que algunas personas encuentran la aplicación compleja**, lo que debe ser tenido en cuenta para futuras mejoras.
 
-#### Análisis del caso B
-
-La aplicación B, con una puntuación de 84.5, fue percibida como más sencilla e intuitiva. Sin embargo, presenta algunas carencias:
-
-- Falta de feedback visual al realizar acciones como participar o comentar.
-- Contraste de colores insuficiente en ciertas secciones.
-- Faltan funcionalidades clave, como editar perfil, iniciar sesión o registrarse.
-- El eye-tracking indica que la atención se concentra en la parte inferior de la pantalla, probablemente porque los elementos importantes están ubicados allí o porque la parte superior no es suficientemente llamativa.
-
-La menor complejidad de navegación en B ha favorecido una experiencia más fluida, lo que se refleja en su ligera ventaja en puntuación.
+**Media global: 82**  
+**Evaluación global: A (aceptable)**
 
 ---
 
-### Conclusión
+### Proyecto B
 
-Ambas aplicaciones tienen una buena base de usabilidad:
+En el caso del proyecto B, la media obtenida en el cuestionario SUS fue de **84.5/100**, lo que también entra en el **rango A** (alta usabilidad). Sin embargo, se observa una mayor dispersión entre las valoraciones de los usuarios, lo que indica que la experiencia de uso puede variar más entre personas.
 
-- App A: Más funcional pero compleja; necesita mejoras en accesibilidad visual y organización del contenido.
-- App B: Más intuitiva y fácil de usar; necesita incorporar feedback claro y funcionalidades básicas.
+- **Victoria** obtuvo una puntuación de **90**, valorando muy positivamente la experiencia. Considera que es una app clara y fácil de usar.
+
+- **Nicolás** otorgó **85 puntos**, lo que confirma una percepción general de buena usabilidad. Cree que la app es coherente, aunque podría mejorar en la integración de las funciones.
+
+- **Marco** dio la puntuación máxima: **100**. Sin embargo, se detectó que respondió muy rápido y sin detenerse en cada pregunta, por lo que se considera que su respuesta puede ser menos representativa.
+
+- **Diego** puntuó con **70**, lo que lo sitúa en el rango C (marginal). Este usuario tuvo dificultades con la navegación y detectó problemas con el manejo de la aplicación.
+
+- **Inma Orzuelo** obtuvo **77.5**, dentro del rango B. Percibió la app como funcional, pero con detalles por mejorar, también siendo el manejo de la aplicación.
+
+Aunque la media es alta, **varias opiniones encuentran aspectos de la aplicacion complejos de manejar**.
+
+**Media global: 84.5**  
+**Evaluación global: A (aceptable, con margen de mejora)**
+
+---
+
+### Imagen de referencia: Rango de interpretación SUS
+
+![Interpretación SUS](https://github.com/user-attachments/assets/d59f3960-e905-4b76-b36f-cfd7593c4bc6)
+
+---
+
+### Conclusión comparativa
+
+- El **proyecto A** presenta una experiencia robusta en cuanto a usabilidad, aunque algunos usuarios encontraron la información demasiado densa y los elementos visuales poco optimizados.
+- El **proyecto B** se percibe como más intuitivo y ligero, pero necesita reforzar aspectos como el feedback tras acciones y añadir funciones clave (editar perfil, registro/inicio de sesión).
+
+Ambos proyectos obtienen puntuaciones aceptables, pero muestran **diferencias cualitativas importantes** que deben ser consideradas si se busca optimizar la experiencia de usuario.
+
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 

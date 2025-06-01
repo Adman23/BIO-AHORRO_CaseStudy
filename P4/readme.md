@@ -55,8 +55,7 @@ Las tareas que se han planteado para el test de usabilidad han sido seleccionada
 
 Estas tareas cubren aspectos fundamentales de la experiencia de usuario, como la navegación básica, el acceso a información relevante, la gestión de cuenta personal y la posibilidad de interactuar con contenido generado por otros usuarios (comentarios). Evaluarlas garantiza que se tiene una visión general del funcionamiento de la interfaz y de los posibles puntos de fricción que pueda encontrar el usuario al utilizar el sistema.
 
-### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
+### Cuestionario SUS
 ----
 ### Cuestionario SUS - A:
 ![image](https://github.com/user-attachments/assets/85c09915-c779-4605-a51b-f232a8534820)
@@ -117,8 +116,7 @@ Aunque la media es alta, **varias opiniones encuentran aspectos de la aplicacion
 
 Ambos proyectos obtienen puntuaciones aceptables, pero muestran **diferencias cualitativas importantes** que deben ser consideradas si se busca optimizar la experiencia de usuario.
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+### A/B Testing
 -----
 ## Método A/B Testing
 Además del cuestionario SUS, se aplicó un test práctico basado en tareas clave para evaluar la experiencia de uso real de cada aplicación. Las tareas se realizaron con los mismos usuarios que participaron en el SUS, y se centraron en los siguientes objetivos:
@@ -155,7 +153,7 @@ Ambas aplicaciones permiten completar las tareas previstas, pero presentan difer
 
 En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación positiva**, el **proyecto B destaca por su simplicidad, claridad y mejor puntuación global en usabilidad**, lo que lo posiciona como el prototipo con mejor experiencia de usuario según los datos recogidos.
 
-### 4.e Aplicación del método Eye Tracking 
+### Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
@@ -163,7 +161,7 @@ En resumen, aunque **ambos proyectos son funcionales y alcanzan una evaluación 
 <br>
 Para realizar el análisis de eye-tracking utilizamos la herramienta **GazeRecorder**. En ella cargamos la imágen correspondiente al home page. Esto nos permitió evaluar visualmente qué elementos captaban la atención de los usuarios en las secciones clave de la página principal.
 
-### 4.f Usability Report de B
+### Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 Se ha aplicado un método UX mixto compuesto por:

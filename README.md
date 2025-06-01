@@ -272,18 +272,19 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Alicia | M / 15-30   | Estudiante  | Baja | Precavida       | móvil        | A 
-| Blanca | M / 15-30   | Editora Junior | Baja | Creativa | móvil       | A 
-| Maje | H / 45-60   | Estudiante  | Media       | Divertida       | móvil        | A 
-| Suley | H / 15-30   | Pringao  | Alta       | Extrovertido       | móvil      | A 
-| Lorenzo | H / 15-30   | Estudiante     | Alta        | Sociable    | móvil      | A 
-|  Victoria | M / 15-30   | Estudiante  | Baja       | Responsable     | móvil       | B 
-| Cayo | H / 15-30   | Estudiante  | Media       | Inteligente     | móvil        | B 
-| Marco  | H / 15-30   | Estudiante  | Alta       | Racional     | móvil        | B 
-| EngatusaGatitas23  | H / 15-30   | Estudiante de la calle  | Media       | Solidario     | móvil        | B 
-| Inma  | M / 15-30   | Estudiante  | Media       | Sensible     | móvil        | B 
+| **Usuario**           | **Sexo / Edad** | **Ocupación**          | **Exp. TIC** | **Personalidad** | **Plataforma** | **Caso** |
+| --------------------- | --------------- | ---------------------- | ------------ | ---------------- | -------------- | -------- |
+| **Alicia**            | Mujer / 15–30   | Estudiante             | Baja         | Precavida        | Móvil          | A        |
+| **Blanca**            | Mujer / 15–30   | Editora junior         | Baja         | Creativa         | Móvil          | A        |
+| **Maje**              | Hombre / 45–60  | Estudiante             | Media        | Divertida        | Móvil          | A        |
+| **Suley**             | Hombre / 15–30  | Pringao                | Alta         | Extrovertido     | Móvil          | A        |
+| **Lorenzo**           | Hombre / 15–30  | Estudiante             | Alta         | Sociable         | Móvil          | A        |
+| **Victoria**          | Mujer / 15–30   | Estudiante             | Baja         | Responsable      | Móvil          | B        |
+| **Cayo**              | Hombre / 15–30  | Estudiante             | Media        | Inteligente      | Móvil          | B        |
+| **Marco**             | Hombre / 15–30  | Estudiante             | Alta         | Racional         | Móvil          | B        |
+| **EngatusaGatitas23** | Hombre / 15–30  | Estudiante de la calle | Media        | Solidario        | Móvil          | B        |
+| **Inma**              | Mujer / 15–30   | Estudiante             | Media        | Sensible         | Móvil          | B        |
+
 
 
 

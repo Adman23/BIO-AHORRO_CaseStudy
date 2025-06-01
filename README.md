@@ -411,9 +411,9 @@ La evaluación fue realizada por el equipo **DIU1_FernandoAdam** sobre el proyec
 | Usuario | Edad | Sexo | SUS Score |
 |--------|------|------|-----------|
 | Victoria | 15–30 | Mujer | 90 |
-| Cayo | 15–30 | Hombre | 85 |
+| Nicolás | 15–30 | Hombre | 85 |
 | Marco | 15–30 | Hombre | 100 |
-| EngatusaGatitas23 | 15–30 | Hombre | 70 |
+| Diego | 15–30 | Hombre | 70 |
 | Inma | 15–30 | Mujer | 77.5 |
 
 > **Promedio estimado (sin Marco): ~80.6**, considerado **bueno** pero con margen de mejora.
